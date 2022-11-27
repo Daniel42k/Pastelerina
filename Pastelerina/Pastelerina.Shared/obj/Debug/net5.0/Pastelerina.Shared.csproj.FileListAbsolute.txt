@@ -1,0 +1,12 @@
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/bin/Debug/net5.0/Pastelerina.Shared.deps.json
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/bin/Debug/net5.0/Pastelerina.Shared.dll
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/bin/Debug/net5.0/ref/Pastelerina.Shared.dll
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/bin/Debug/net5.0/Pastelerina.Shared.pdb
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/obj/Debug/net5.0/Pastelerina.Shared.csprojAssemblyReference.cache
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/obj/Debug/net5.0/Pastelerina.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/obj/Debug/net5.0/Pastelerina.Shared.AssemblyInfoInputs.cache
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/obj/Debug/net5.0/Pastelerina.Shared.AssemblyInfo.cs
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/obj/Debug/net5.0/Pastelerina.Shared.csproj.CoreCompileInputs.cache
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/obj/Debug/net5.0/Pastelerina.Shared.dll
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/obj/Debug/net5.0/ref/Pastelerina.Shared.dll
+/home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.Shared/obj/Debug/net5.0/Pastelerina.Shared.pdb

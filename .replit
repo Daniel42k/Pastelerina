@@ -1,0 +1,2 @@
+run = "dotnet watch run --project /home/runner/Pastelerinaempty-danielirrevega/Pastelerina/Pastelerina.App
+/Pastelerina.App.csproj --urls=http://0.0.0.0:8080"
